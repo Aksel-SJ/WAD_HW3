@@ -2,15 +2,15 @@
   width: 400px;
   margin: 80px auto 50px auto;
   padding: 40px 30px;
-  background: #363636;
+  background: #e2e2e2;
   border-radius: 12px;
-  box-shadow: 0 4px 14px rgba(255, 255, 255, 0.15);
+  box-shadow: 0 4px 14px #ffffff26;
   text-align: center;
 }
 
 .signup_container h1 {
   margin-bottom: 20px;
-  color: #ffffff;
+  color: #000000;
   font-weight: 700;
 }
 
@@ -25,7 +25,7 @@
   width: 100%;
   text-align: left;
   font-weight: 600;
-  color: #ffffff;
+  color: #000000;
 }
 
 .signup_form input {
@@ -33,7 +33,7 @@
   padding: 12px;
   font-size: 16px;
   border-radius: 6px;
-  border: 1px solid #bbb;
+  border: 1px solid #adadad;
   outline: none;
   transition: 0.3s;
   margin-top: 5px;
@@ -41,7 +41,7 @@
 
 .signup_form input:focus {
   border-color: #4caf50;
-  box-shadow: 0 0 5px rgba(76, 175, 80, 0.4);
+  box-shadow: 0 0 5px #4caf5066;
 }
 
 .signup_form button {
